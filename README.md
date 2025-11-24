@@ -2,3 +2,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin" /><br>
 
 ## Aprendiendo algoritmos en Kotlin mientras estudio la sintaxis 
+
+### • Permutaciones de palabras 
+### • Quicksort 
+### • Obtener Tríos Pitagóricos
